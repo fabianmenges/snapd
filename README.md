@@ -1,2 +1,2 @@
 # snapd
-Btrfs snapshot management tools
+Lightweight Btrfs snapshot management scripts
